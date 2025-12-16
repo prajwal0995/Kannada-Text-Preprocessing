@@ -99,50 +99,38 @@ nltk.download('wordnet')
 Step 4: Run the Notebook
 Open the Jupyter Notebook and execute cells one by one.
 
-Output
+📊 Output
 
 Cleaned text
-
 Tokenized words
-
 Stopword-free tokens
-
 Lemmatized tokens
-
 Term frequency dictionary
 
- ## Why Lemmatization?
-
+ 📚 Why Lemmatization?
 Lemmatization returns dictionary-based meaningful words, making it more suitable for:
-
-NLP models
-
+ NLP models
 Text classification
-
 Sentiment analysis
-
 Learning Outcomes
 
-By completing this project, you will learn:
+🎯 By completing this project, you will learn:
 
 How to preprocess text for NLP
-
 Why text cleaning is important
-
 Difference between stemming and lemmatization
-
 How word frequency impacts NLP models
 
-Contributions
+🤝 Contributions
 
 Contributions are welcome!
 Feel free to fork the repository, improve code, or add new NLP techniques.
 
-License
+📜 License
 
 This project is open-source and available for educational purposes.
 
-Author
+👨‍💻 Author
 
 Prajwal Badiger
 Email: badigerprajwal886@gmail.com
